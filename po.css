@@ -1,0 +1,36 @@
+#first{
+    color: crimson;
+    margin: 50px;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+
+}
+.abc{
+
+    display: flex;
+    justify-content:space-between;
+    
+}
+.jr{
+    width: 700px;
+    height: 300px;
+    
+    display: flex;
+    justify-content: center;
+}
+#pr{
+    display: flex;
+    justify-content:center;
+
+}
+#head{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+#xyz{
+    margin: 50px;
+    padding: 50px;
+}
